@@ -1,4 +1,4 @@
-
+import {Title} from './components/Title'
 import './App.css'
 
 function App() {
@@ -6,7 +6,7 @@ function App() {
 
   return (
     <>
-    
+    <Title></Title>
     </>
   )
 }
